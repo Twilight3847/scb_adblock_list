@@ -23,3 +23,8 @@
 18comic.org##div[class="ph-bottom switch-group visible-xs visible-sm"]
 18comic.org##div[class="p-l-5 p-r-5 m-t-5 phoneclass visible-xs visible-sm center"]
 18comic.org##div[class="div-bf-pv"]
+
+
+! 自由時報
+!! 關閉加 Line 彈出窗
+sports.ltn.com.tw#%#//scriptlet('set-cookie-reload', 'fb_mask', '1')
