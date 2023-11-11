@@ -5,13 +5,15 @@
 ! Homepage: https://github.com/scbmark/scb_adblock_list
 
 
-! 18comic.vip
+! 18comic
+18comic.vip#%#//scriptlet('set-cookie-reload', 'cover', '1')
 18comic.vip##.top-nav
 18comic.vip##.owl-stage
 18comic.vip##.col-lg-12
 18comic.vip##div[class="row"]:has(> div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6"])
 18comic.vip##div[class="float-right-image close hidden-xs hidden-sm hidden-md"]
 
+18comic.org#%#//scriptlet('set-cookie-reload', 'cover', '1')
 18comic.org##.top-nav
 18comic.org##.owl-stage
 18comic.org##.col-lg-12
