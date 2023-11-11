@@ -1,0 +1,13 @@
+[Adblock Plus]
+! Title: scb_adblock_list
+! Version: 2023.1111.1
+! Expires: 1 hour
+! Homepage: https://github.com/scbmark/scb_adblock_list
+
+
+! 18comic.vip
+18comic.vip##.top-nav
+18comic.vip##.owl-stage
+18comic.vip##.col-lg-12
+18comic.vip##div[class="row"]:has(> div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6"])
+18comic.vip##div[class="float-right-image close hidden-xs hidden-sm hidden-md"]
