@@ -11,3 +11,9 @@
 18comic.vip##.col-lg-12
 18comic.vip##div[class="row"]:has(> div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6"])
 18comic.vip##div[class="float-right-image close hidden-xs hidden-sm hidden-md"]
+
+18comic.org##.top-nav
+18comic.org##.owl-stage
+18comic.org##.col-lg-12
+18comic.org##div[class="row"]:has(> div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6"])
+18comic.org##div[class="float-right-image close hidden-xs hidden-sm hidden-md"]
