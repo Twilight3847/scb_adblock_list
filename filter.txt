@@ -27,4 +27,7 @@
 
 ! 自由時報
 !! 關閉加 Line 彈出窗
-sports.ltn.com.tw#%#//scriptlet('set-cookie-reload', 'fb_mask', '1')
+ltn.com.tw#%#//scriptlet('set-cookie-reload', 'fb_mask', '1')
+ltn.com.tw##div[class="asideBlock boxTitle boxText"]
+ltn.com.tw##div[class="asideBox boxTitle boxText"]
+ltn.com.tw##div[class="fb_mask boxTitle boxText"]
