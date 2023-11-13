@@ -47,6 +47,8 @@ udn.com##section[class="ec-section article-section context-box"]
 
 ! csdn
 csdn.net##div[class="passport-main"]
+csdn.net##div[class="passport-container passport-container-mini"]
+csdn.net##div[class="passport-login-tip-container false"]
 csdn.net##aside[class="blog_container_aside"]
 csdn.net##aside[class="recommend-right_aside"]
 csdn.net##div[class="csdn-side-toolbar "]
