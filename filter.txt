@@ -34,11 +34,23 @@ ltn.com.tw##div[class="fb_mask boxTitle boxText"]
 ltn.com.tw##div[class="asideBlock boxTitle boxText"]
 ltn.com.tw##div[class="asideBox boxTitle boxText"]
 
+
+! Yahoo
+!! 贊助廣告
+yahoo.com##html[env="production"]
+
+
+! 聯合網
+!! 贊助廣告
+udn.com##section[class="ec-section article-section context-box"]
+
+
 ! csdn
 csdn.net##div[class="passport-main"]
 csdn.net##aside[class="blog_container_aside"]
 csdn.net##aside[class="recommend-right_aside"]
 csdn.net##div[class="csdn-side-toolbar "]
+
 
 ! 知乎
 zhihu.com##div[class="css-woosw9"]
