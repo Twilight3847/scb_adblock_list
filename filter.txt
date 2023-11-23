@@ -4,6 +4,10 @@
 ! Expires: 1 hour
 ! Homepage: https://github.com/scbmark/scb_adblock_list
 
+! 白名單
+!! 巴哈姆特
+@@||ani.gamer.com.tw
+
 
 ! 18comic
 18comic.vip#%#//scriptlet('set-cookie-reload', 'cover', '1')
@@ -59,3 +63,11 @@ csdn.net##div[class="csdn-side-toolbar "]
 
 ! 知乎
 zhihu.com##div[class="css-woosw9"]
+
+
+! Youtube
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
+
+! pttweb
+||www.pttweb.cc^
