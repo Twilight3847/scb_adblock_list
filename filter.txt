@@ -73,3 +73,7 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
 ! pttweb
 ||www.pttweb.cc^
+
+
+! eyny
+eyny.com#%#//scriptlet('set-cookie-reload', '656e55XbD_e8d7_agree', '1')
