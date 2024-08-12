@@ -42,6 +42,8 @@ ltn.com.tw##div[class="fb_mask boxTitle boxText"]
 !! 側邊欄
 ltn.com.tw##div[class="asideBlock boxTitle boxText"]
 ltn.com.tw##div[class="asideBox boxTitle boxText"]
+ltn.com.tw##div[class="hot_tag"]
+ltn.com.tw##div[class="hotnews boxTitle boxText hotnews_right"]
 
 
 ! Yahoo
