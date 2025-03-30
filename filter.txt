@@ -71,3 +71,8 @@ zhihu.com##div[class="css-woosw9"]
 
 ! Youtube
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
+
+! 網路空間下載倒數
+116pan.com#%#//scriptlet('set', 'secs', '1')
+moguwp.com#%#//scriptlet('set', 'secs', '1')
