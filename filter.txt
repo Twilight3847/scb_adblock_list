@@ -20,6 +20,7 @@
 18comic.vip##div[class="div-bf-pv"]
 18comic.vip##div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6 list-col"]
 18comic.vip#%#//scriptlet('set', 's.innerHTML', 'false')
+18comic.vip##.hidden-md.hidden-sm.hidden-xs.float-right-daily
 
 
 18comic.org#%#//scriptlet('set-cookie-reload', 'cover', '1')
@@ -32,6 +33,7 @@
 18comic.org##div[class="div-bf-pv"]
 18comic.org##div[class="col-lg-3 col-md-3 col-sm-3 col-xs-6 list-col"]
 18comic.org#%#//scriptlet('set', 's.innerHTML', 'false')
+18comic.org##.hidden-md.hidden-sm.hidden-xs.float-right-daily
 
 
 ! 自由時報
@@ -76,3 +78,7 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 ! 網路空間下載倒數
 116pan.com#%#//scriptlet('set', 'secs', '1')
 moguwp.com#%#//scriptlet('set', 'secs', '1')
+windfiles.com#%#//scriptlet('set', 'countdownInterval', '1')
+
+! r18.clickme 網頁遮版
+r18.clickme.net###society-shadow
