@@ -2,7 +2,7 @@
 ! Title: scb_adblock_list
 ! Version: 2023.1111.1
 ! Expires: 1 hour
-! Homepage: https://github.com/scbmark/scb_adblock_list
+! Homepage: https://github.com/Twilight3847/scb_adblock_list
 
 ! 白名單
 !! 巴哈姆特
@@ -80,6 +80,7 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 moguwp.com#%#//scriptlet('set', 'secs', '1')
 windfiles.com#%#//scriptlet('set', 'countdownInterval', '1')
 
+
 ! r18.clickme 網頁遮版
 r18.clickme.net#%#//scriptlet('set-cookie-reload', 'isProhibit', 'true')
 r18.clickme.net#%#//scriptlet('set-cookie-reload', 'isShowSociety', '1')
@@ -87,9 +88,6 @@ r18.clickme.net##div[id="idle-shadow"]
 r18.clickme.net##div[id="society-container"]
 r18.clickme.net##div[id="idle"]
 
-! AV01
-www.av01.tv##div.group:nth-of-type(1)
-www.av01.tv##.lg\:col-span-1 > div
 
 ! Google搜尋的機翻Reddit文章
 www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has(a[href*="reddit.com"][href*="tl="])
