@@ -95,3 +95,15 @@ www.google.*##:is(#search,#botstuff) :is(.N54PNb, .tF2Cxc, .sHEJob, .dRzkFf):has
 
 ! AV01
 www.av01.tv##div.group:has(> div.relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
+
+
+! hentaiclub.net
+www.hentaiclub.net##div.banner-top
+
+
+! tokyomotion.net
+www.tokyomotion.net##.nvclose2
+
+
+! hanime1.me
+hanime1.me##div.home-rows-videos-wrapper>a:nth-child(1)
