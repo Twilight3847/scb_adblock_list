@@ -107,3 +107,7 @@ www.tokyomotion.net##.nvclose2
 
 ! hanime1.me
 hanime1.me##div.home-rows-videos-wrapper>a:nth-child(1)
+
+
+! vocus.cc
+vocus.cc##+js(aeld, copy)
