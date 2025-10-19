@@ -111,3 +111,7 @@ hanime1.me##div.home-rows-videos-wrapper>a:nth-child(1)
 
 ! vocus.cc
 vocus.cc##+js(aeld, copy)
+
+
+! wnacg
+wnacg.com###bread>.result
