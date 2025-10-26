@@ -115,3 +115,7 @@ vocus.cc##+js(aeld, copy)
 
 ! wnacg
 wnacg.com###bread>.result
+
+
+! ptt.cc
+ptt.cc##+js(set-cookie, over18, 1)
