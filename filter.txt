@@ -119,3 +119,7 @@ wnacg.com###bread>.result
 
 ! ptt.cc
 ptt.cc##+js(set-cookie, over18, 1)
+
+
+! news.pts.org
+news.pts.org.tw##+js(set-cookie, no_promotion, true)
