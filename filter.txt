@@ -127,3 +127,7 @@ news.pts.org.tw##+js(set-cookie, no_promotion, true)
 
 ! taiwanhelper.com
 taiwanhelper.com##.Adsense_top__XUT7L.Adsense_ad__uwasr
+
+
+! www.busgooo.com
+www.busgooo.com##.Adsense_top__XUT7L.Adsense_ad__uwasr
