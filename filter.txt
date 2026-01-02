@@ -131,3 +131,7 @@ taiwanhelper.com##.Adsense_top__XUT7L.Adsense_ad__uwasr
 
 ! www.busgooo.com
 www.busgooo.com##.Adsense_top__XUT7L.Adsense_ad__uwasr
+
+
+! mnya.tw
+mnya.tw##article#advertise:remove-attr(id)
