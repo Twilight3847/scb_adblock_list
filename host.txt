@@ -2,6 +2,8 @@
 ! Title: scb_host_list
 ! Version: 1.0
 ! Expires: 1 hour
-! Homepage: https://github.com/Twilight3847/scb_adblock_list\n||open-claw.me^
+! Homepage: https://github.com/Twilight3847/scb_adblock_list
+
+||open-claw.me^
 ||open-claw.org^
 ||openclaw.ai^
