@@ -7,3 +7,5 @@
 ||open-claw.me^
 ||open-claw.org^
 ||openclaw.ai^
+||picoclaw.ai^
+||picoclaw.net^
