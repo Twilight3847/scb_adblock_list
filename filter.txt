@@ -81,6 +81,15 @@ moguwp.com#%#//scriptlet('set', 'secs', '1')
 windfiles.com#%#//scriptlet('set', 'countdownInterval', '1')
 
 
+! r18.clickme
+r18.clickme.net##.white-background.article-prev-next
+r18.clickme.net##.white-background.article-fanPage-shareZone
+r18.clickme.net##.guest-book-title
+r18.clickme.net##.white-background.guest-book-facebook
+r18.clickme.net##.relative-article
+r18.clickme.net##.random-article
+
+
 ! r18.clickme 網頁遮版
 r18.clickme.net#%#//scriptlet('set-cookie-reload', 'isProhibit', 'true')
 r18.clickme.net#%#//scriptlet('set-cookie-reload', 'isShowSociety', '1')
