@@ -109,6 +109,10 @@ www.av01.tv##.bottom-banner-fixed
 www.av01.media##div.group:has(> div.relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
 www.av01.media##.banner-fixed
 www.av01.media##.bottom-banner-fixed
+www.av01.media##+js(set-local-storage-item, av01_ad_throttle_data, denied)
+www.av01.media##+js(set-local-storage-item, actressPreferences, $remove$)
+www.av01.media##+js(set-local-storage-item, makerPreferences, $remove$)
+www.av01.media##+js(set-local-storage-item, tagPreferences, $remove$)
 
 
 ! hentaiclub.net
