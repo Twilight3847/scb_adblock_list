@@ -161,3 +161,7 @@ mnya.tw##div.mnyaAD-block
 
 ! s0.4up.pics
 ||s0.4up.pics/assets/js/anti-adblock.js$script,domain=s0.4up.pics
+
+
+! fc2ppv.stream
+||fc2ppv.stream/upload/assets/js/anti-adblock.js$script,domain=fc2ppv.stream
