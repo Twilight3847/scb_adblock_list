@@ -177,3 +177,7 @@ mnya.tw##div.mnyaAD-block
 
 ! 555fap.com
 ||555fap.com/upload/assets/js/anti-adblock.js$script,domain=555fap.com
+
+
+! hentai-sub.com
+||hentai-sub.com/upload/assets/js/anti-adblock.js$script,domain=hentai-sub.com
