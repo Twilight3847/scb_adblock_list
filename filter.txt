@@ -185,3 +185,7 @@ mnya.tw##div.mnyaAD-block
 
 ! hentai-sub.com
 ||hentai-sub.com/upload/assets/js/anti-adblock.js$script,domain=hentai-sub.com
+
+
+! hentai-manga.org
+||hentai-manga.org/upload/assets/js/anti-adblock.js$script,domain=hentai-manga.org
